@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Equal arrays" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/How to create an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Printing the last element" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Swap elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/The first element of an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/The last element of an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Map/Is there a key" />
+            <option value="$PROJECT_DIR$/Topics/Map/Products in store" />
+            <option value="$PROJECT_DIR$/Topics/Map/Strings to Map" />
+            <option value="$PROJECT_DIR$/Topics/Map/Sum of values" />
+            <option value="$PROJECT_DIR$/Topics/Map/The truth is" />
+            <option value="$PROJECT_DIR$/Topics/Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Application" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Application (1)" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Help the robot" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Removing" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Adding arrays" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Adding values" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Change the existing values" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Defining array types" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Editing and recreating" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Empty" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Guard On The Gate" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Help the Lord Commander" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Initialization" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Printing an array" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Yet another array" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/But what's it for" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Change program arguments" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Printing arguments" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Program start" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Select an entry point" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Using arguments" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Duplication" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/writeText()" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
